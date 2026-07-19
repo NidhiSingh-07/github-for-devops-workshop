@@ -1,0 +1,24 @@
+ try { . "c:\Users\Nidhi\AppData\Local\Programs\Microsoft VS Code\8a7abeba6e\resources\app\out\vs\workbench\contri...
+   2 dir -a                                                                                                              
+   3 dir                                                                                                                 
+   4 git init                                                                                                            
+   5 dir -Force                                                                                                          
+   6 git status                                                                                                          
+   7 dir                                                                                                                 
+   8 git add testing.py                                                                                                  
+   9 git status                                                                                                          
+  10 git --cached                                                                                                        
+  11 git status                                                                                                          
+  12 git rm --cached                                                                                                     
+  13 git status                                                                                                          
+  14 git rm --cached python.py                                                                                           
+  15 git status                                                                                                          
+  16 git rm --cached testing.py                                                                                          
+  17 git status                                                                                                          
+  18 git add testing.py                                                                                                  
+  19 git status                                                                                                          
+  20 git commit -m "adding testing files"                                                                                
+  21 git status                                                                                                          
+  22 rm testing.py                                                                                                       
+  23 git status                                                                                                          
+  24 git restore testing.py
